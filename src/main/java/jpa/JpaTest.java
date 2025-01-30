@@ -1,6 +1,7 @@
 package jpa;
 
 
+
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;
 
